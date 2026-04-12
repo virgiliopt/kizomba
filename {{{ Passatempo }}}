@@ -6,20 +6,8 @@
 </item>
 
 <item>
-<title>[COLOR white][COLOR lime]•[/COLOR]RTP Macau</title>
-<link>http://live4.tdm.com.mo/ch2/_definst_//ch2.live/playlist.m3u8</link>
-<thumbnail></thumbnail>
-</item
-
-<item>
 <title>[COLOR lime][COLOR lime][/COLOR]---- Noticias ----</title>
 <link>http://ignoreme</link>
-</item>
-
-<item>
-<title>[COLOR white][COLOR lime]•[/COLOR]</title>
-<thumbnail></thumbnail>
-<link></link>
 </item>
 
 <item>
@@ -28,20 +16,9 @@
 </item> 
 
 <item>
-<title>[COLOR white][COLOR lime]•[/COLOR]Sport TV 1</title>
-<link>http://</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>[COLOR lime][COLOR lime][/COLOR]----- Crianças -----</title>
 <link>http://ignoreme</link>
 </item>
-
-<item>
-<title>[COLOR white][COLOR lime]•[/COLOR]Kuriakos Kids</title>
-<link>http://</link>
-<thumbnail></thumbnail>
 
 <item>
 <title>[COLOR lime][COLOR lime][/COLOR]---- Cine & Series ----</title>
@@ -49,38 +26,8 @@
 </item>
 
 <item>
-<title>[COLOR white][COLOR lime]•[/COLOR]Kuriakos Cine</title>
-<link>http://c2.manasat.com:1935/kcine/kcine3/magellan.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>[COLOR lime][COLOR lime][/COLOR]---- Musica ----</title>
 <link>http://ignoreme</link>
-</item>
-
-<item>
-<title>[COLOR white][COLOR lime]•[/COLOR]Kuriakos Musica</title>
-<thumbnail></thumbnail>
-<link>http://c2.manasat.com:1935/kmusic/kmusic3/magellan.m3u8</link>
-</item>
-
-<item>
-<title>[COLOR white][COLOR lime]•[/COLOR]Latinos Up</title>
-<thumbnail>http://www.latinosup.com/site/wp-content/uploads/2017/01/2000x1125_banner_latinos_up_tv_radio.png</thumbnail>
-<link>https://5955f4ce3f2b7.streamlock.net/8080/8080/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</link>
-</item>
-
-<item>
-<title>[COLOR white][COLOR lime]•[/COLOR]Top Latino</title>
-<thumbnail></thumbnail>
-<link>http://</link>
-</item>
-
-<item>
-<title>[COLOR white][COLOR lime]•[/COLOR]La Mega Latino</title>
-<thumbnail></thumbnail>
-<link>http://</link>
 </item>
 
 <item>
@@ -93,12 +40,6 @@
 <title>[COLOR white][COLOR lime]•[/COLOR]VC Latin TV</title>
 <thumbnail></thumbnail>
 <link>https://593b04c4c5670.streamlock.net/8068/8068/playlist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</link>
-</item>
-
-<item>
-<title>[COLOR white][COLOR lime]•[/COLOR]Trace Gospel</title>
-<thumbnail></thumbnail>
-<link>http://</link>
 </item>
 
 <item>
